@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/gasierram/gasierram.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Bienvenido: 
 
-### Markdown
+Soy Alejandro Sierra, tengo 23 años y vivo en Bogota. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Experiencia en el desarrollo web, aplicaciones móviles, creación y administración de bases de datos, desarrollo de modelos matemáticos que permitan obtener algoritmos óptimos para la solución de problemas. Soy una persona eficiente, con capacidad de liderazgo y toma de decisiones. Alto sentido de responsabilidad, organización y compromiso; dispuesta al trabajo en equipo y aprendizaje continuo. Estudiante de Ingeniería de Sistemas desarrollando habilidades en la construcción de herramientas para la solución de problemas con tecnología, el análisis y dirección de sistemas organizacionales del sector público o privado, la estructuración y gestión de sistemas de información y conocimiento, adicionalmente la prestación de servicios de asesoría y consultoría en el área de sistemas e informática.
 
-```markdown
-Syntax highlighted code block
+### Intereses
+Apasionado por la tecnologia.
+Inteligencia Artificial
+Marketing Digital
+Frontend y Backend Development
+--------------
+Me gusta viajar.
+Networking y amigos
+Un buen Cafe
+Leer a diario
+Soñador y hacedor
+---------------
+Me gusta estar siempre fuera de mi zona de confort, ¡alli saco lo mejor de mi!
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Proyectos
 
-[Link](url) and ![Image](src)
-```
+Actualmente tengo varios proyectos interesantes, si quieres conocer mas sigueme en: 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gasierram/gasierram.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://github.com/gasierram
+https://bitbucket.org/account/user/gasierram/
+https://www.instagram.com/alejandro_sierra21/
+https://www.linkedin.com/in/alejandro2421/
