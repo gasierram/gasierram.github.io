@@ -1,6 +1,6 @@
 
 
-##Bienvenido: 
+##Bienvenido
 
 Soy Alejandro Sierra, tengo 23 años y vivo en Bogota. 
 
@@ -28,6 +28,9 @@ Me gusta estar siempre fuera de mi zona de confort, ¡alli saco lo mejor de mi!
 Actualmente tengo varios proyectos interesantes, si quieres conocer mas sigueme en: 
 
 https://github.com/gasierram
+
 https://bitbucket.org/account/user/gasierram/
+
 https://www.instagram.com/alejandro_sierra21/
+
 https://www.linkedin.com/in/alejandro2421/
